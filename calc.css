@@ -1,0 +1,24 @@
+.container{
+	border-style:none;
+}
+
+h1{
+	 text-align: center;
+	color:green;
+}
+h2{
+	color: blue;
+}
+.row{
+	border-style:none;
+	color:grey;
+}
+.col-lg-3{
+	border-style:groove;
+	background-color:rgb();
+
+}
+.col-lg-6{
+	border-style:none;
+	background-color:rgb();
+}
